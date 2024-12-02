@@ -1,0 +1,7 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 20
+names: ['cooking', 'cutting_trees', 'drinking', 'feeding_a_horse', 'fixing_a_bike', 'fixing_a_car', 'holding_an_umbrella', 'playing_guitar', 'pushing_a_cart', 'riding_a_bike', 'riding_a_horse', 'rowing_a_boat', 'texting_message', 'throwing_frisby', 'using_a_computer', 'walking_the_dog', 'washing_dishes', 'watching_TV', 'writing_on_a_board', 'writing_on_a_book']
+
